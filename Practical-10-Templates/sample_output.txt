@@ -1,0 +1,15 @@
+OUTPUT 1: FUNCTION TEMPLATE
+
+Integer Addition
+30
+Float Addition
+10.8
+Double Addition
+52.9
+
+OUTPUT 2: CLASS TEMPLATE
+
+Integer addition: 30
+Integer multiplication: 200
+Double addition: 6.5
+Double multiplication: 10
