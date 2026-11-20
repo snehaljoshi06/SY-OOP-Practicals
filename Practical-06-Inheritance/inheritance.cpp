@@ -28,7 +28,7 @@ public:
 };
 
 // 1. Single inheritance: Student inherits from Person.
-// virtual inheritance also supports the hybrid diamond structure below.
+// Virtual inheritance also supports the hybrid diamond structure below.
 class Student : virtual public Person
 {
 protected:
