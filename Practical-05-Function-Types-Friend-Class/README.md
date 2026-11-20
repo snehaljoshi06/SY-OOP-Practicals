@@ -34,4 +34,4 @@ Marks: 85.5
 ```
 
 ## How to Run
-Compile `function_types_friend_class.cpp` using a C++ compiler, then run the generated executable.
+Compile `list_class.cpp` using a C++ compiler, then run the generated executable.
